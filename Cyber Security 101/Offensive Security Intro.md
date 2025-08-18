@@ -7,5 +7,5 @@
 ## First Hack
 
 - 해킹 시도의 첫 걸음: 숨겨진 특징들 찾기 (ex. url)
-''' bash
+'''bash
 dirb
