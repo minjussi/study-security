@@ -45,11 +45,17 @@ ex. Google, Bing, DuckDuckGo
 - ex. apache 2.4.1을 검색하면, 헤더에 "apache 2.4.1"이 포함된 서버 목록이 반환됨
 - Search Query Examples(https://www.shodan.io/search/examples), Shodan trends(https://www.shodan.io/search/examples) 참고
 
-2. Censys: 인터넷에 연결된
+2. Censys: 인터넷에 연결된 인터넷 연결 호스트, 웹사이트, 인증서 및 기타 인터넷 자산에 중점
 
-- 
+- 사용 중인 도메인 열거, 열린 포트 및 서비스 감사, 네트워크 내 악성 자산 발견 등에 활용
 
+3. VirusTotal: 바이러스 스캐닝 서비스
 
-3. VirusTotal
+- 파일을 업로드하거나 url을 입력해서 한 번에 여러 바이러스 백신과 웹사이트 엔진으로 검사 가능
+- 파일 해시를 입력해 이전에 업로드된 파일 결과 확인 가능
 
-4. Have I Been Pwned
+4. Have I Been Pwned(HIBP): 유출된 데이터에 존재하는 이메일 주소인지 알려주는 서비스
+
+- 이메일 주소가 나타났다는 것은 개인정보와 패스워드가 유출되었다는 의미
+- 대부분의 비밀번호는 암호화된 형태로 저장되기 때문에 간단한 비밀번호는 유추하기 쉬움
+
