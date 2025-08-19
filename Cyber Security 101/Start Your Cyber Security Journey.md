@@ -76,4 +76,6 @@ ex. Google, Bing, DuckDuckGo
 
 **Linux Manual Pages**
 
-
+- 모든 명령어에는 man 페이지 존재
+- ex. ip 명령어를 확인하고 싶으면 man ip 입력 -> ip 명령어에 대한 정보 출력 (q로 나가기 가능)
+- AttackBox: 브라우저에서 접근할 수 있는 linux 시스템
