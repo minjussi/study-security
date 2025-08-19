@@ -1,1 +1,1 @@
-# tryhackme-writeup
+# Study Security
