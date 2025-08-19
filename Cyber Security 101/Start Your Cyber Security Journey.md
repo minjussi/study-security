@@ -59,3 +59,21 @@ ex. Google, Bing, DuckDuckGo
 - 이메일 주소가 나타났다는 것은 개인정보와 패스워드가 유출되었다는 의미
 - 대부분의 비밀번호는 암호화된 형태로 저장되기 때문에 간단한 비밀번호는 유추하기 쉬움
 
+## Vulnerabilities and Exploits
+
+**CVE**
+
+- Common Vulnerabilities and Exposures: 표준화된 취약점 식별자로 모든 사람이 동일하게 취약점을 식별할 수 있게 함
+- More information: https://www.cve.org/ , https://nvd.nist.gov/
+
+**Exploit Database**
+
+- 허가가 있을 때만 익스플로잇을 시도해야 함
+- 다양한 익스플로잇 코드 확인 가능: https://www.exploit-db.com/
+- PoC(Proof of Concept) 및 익스플로잇 코드 확인: Github
+
+## Technical Documentation
+
+**Linux Manual Pages**
+
+
